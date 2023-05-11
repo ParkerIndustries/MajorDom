@@ -1,5 +1,5 @@
 # MajorDom
 
-## [/MajorDom/PrivacyPolicy](Privacy Policy)  
+## [Privacy Policy](/MajorDom/PrivacyPolicy)  
 
-## [/MajorDom/PrivacyPolicy](Terms of Use)  
+## [Terms of Use](/MajorDom/PrivacyPolicy)  
